@@ -1,0 +1,12 @@
+#ifndef ADD_LOG_H
+#define ADD_LOG_H
+
+
+class add_log
+{
+public:
+    add_log();
+    
+};
+
+#endif // ADD_LOG_H

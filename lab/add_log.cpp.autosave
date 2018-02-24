@@ -1,0 +1,6 @@
+#include "log_list.h"
+
+add_log::add_log()
+{
+
+}

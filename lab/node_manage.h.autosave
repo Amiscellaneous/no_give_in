@@ -1,0 +1,12 @@
+#ifndef NODE_MANAGE_H
+#define NODE_MANAGE_H
+
+
+class node_manage
+{
+public:
+    node_manage();
+    
+};
+
+#endif // NODE_MANAGE_H
